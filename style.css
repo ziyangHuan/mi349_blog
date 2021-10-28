@@ -1,0 +1,29 @@
+html{
+    background: #010101
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color:#a52a2a;
+    border-top: 10px solid #a52a2a;
+    background:#404040
+}
+h1{
+    font-size: 3em;
+    margin:0;
+    color:#a52a2a;
+}
+h2{
+    color: #e30303;
+}
+p{
+    line-height: 1.4em;
+    width: 500px;
+}
+#blog{
+    border-top: 1px #010101;
+}
+.blog-post{
+    border-bottom: 1px dotted #a52a2a;
+}
